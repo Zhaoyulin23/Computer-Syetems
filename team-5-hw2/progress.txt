@@ -1,0 +1,25 @@
+Requirements:
+
+The progress report should be short (2 paragraphs, 100 words max) and describe:
+1. the amount of interaction you and your teammate have had working on the assignment.
+2. what has been accomplished - code written, tests passed, designs complete, etc.
+
+
+Progress Report -- Team 5 
+
+10/8/2014 
+
+Discuss the pseudo code and start working on Problem 1.  
+
+10/9/2014
+
+Design for question 1 has completed and write the code for barber() and customer()
+
+10/10/2014 
+
+Q2 has passed the test script, working on debug Q3.
+
+10/11/2014
+
+Q2 Bug fixed! 
+
